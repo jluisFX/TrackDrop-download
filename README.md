@@ -4,6 +4,8 @@ Ouça músicas e efeitos nos sites de bibliotecas, baixe o que gostar e arraste 
 
 **[⬇ Baixar o TrackDrop para Windows](https://github.com/jluisFX/TrackDrop-download/releases/latest)**
 
+**[⬇ Baixar o TrackDrop para Android (beta)](https://github.com/jluisFX/TrackDrop-download/releases/latest)** — arquivo **TrackDrop-Android-beta.apk**
+
 ---
 
 ## 1. Como baixar uma música
@@ -36,6 +38,17 @@ O arquivo também fica salvo em **Música\TrackDrop**.
 
 Precisa de Windows 10 ou 11.
 
+## Android (beta)
+
+Versão de teste: ainda pode ter falhas.
+
+1. No celular, abra a página de [downloads](https://github.com/jluisFX/TrackDrop-download/releases/latest) e baixe o **TrackDrop-Android-beta.apk**.
+2. Abra o arquivo. Se o celular pedir, permita **instalar apps desta origem** e toque em **Instalar**.
+3. No TrackDrop, escolha **Músicas** ou **Efeitos** no topo e toque num site.
+4. **Dê play na música no site.** Aí aparece o botão **Baixar**.
+5. Toque em **Baixar**: a música fica salva em **Música/TrackDrop** no celular. Use **Compartilhar** para mandar para o seu editor (CapCut, InShot etc.).
+
+Precisa de Android 7 ou mais novo.
 ## Dicas rápidas
 
 - **Estrela** ao lado da música: guarda nos **Favoritos**, para usar depois sem o site.
